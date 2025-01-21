@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //let a = 50    // a = a-5
+        //let b = (a>50)?'AC-off': 'AC-on'
+       // document.write(b, "<br>")      // b = b-5
+      // alert("ADITYA")
+     //  document.write(alert)
+     let a = prompt()
+     document.write(a, "<br>")
+     document.write(typeof(a), "<br>")
+     let b = prompt()
+     document.write(a+b, "<br>")
+     //alert(`My name is: ${a}`)
+
+       // document.write(a==b, "<br>")
+       // document.write(a===b, "<br>")
+       // document.write(a!=b, "<br>")
+       // document.write(a!==b, "<br>")
+      //  document.write(a>b && a>2, "<br>")
+        //document.write(a>b && a>12, "<br>")
+       // document.write(a>b || a>12, "<br>")
+       // document.write(! (a>12), "<br>")
+        
+        //a += 50
+       // b -= 2
+        //document.write(b, "<br>")
+       // document.write(a, "<br>")
+        //let b = 5
+        //a++
+        //b--
+        //document.write(a*b, "<br>")
+        //document.write(a**b, "<br>")
+        //document.write(a/b, "<br>")
+        //document.write(a%b, "<br")
+        //document.write(a, "<br>")
+        //document.write(b, "<br>")
+    </script>
+</body>
+</html>
